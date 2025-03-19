@@ -17,7 +17,7 @@ html-to-image (For converting meme to downloadable image) 📸
 📦 Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/meme-generator.git
+git clone https://github.com/MadhuSharma-9/meme-generator.git
 cd meme-generator
 2️⃣ Install Dependencies
 
