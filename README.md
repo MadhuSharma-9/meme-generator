@@ -52,5 +52,4 @@ Madhu Sharma
 🌐 Portfolio: [Coming Soon]
 📩 Email: madhusharmamain7@gmail.com
 🐦 Twitter: @MadhuSharma__9
-📜 License
-This project is open-source under the MIT License.
+
