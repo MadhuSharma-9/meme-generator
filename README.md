@@ -14,17 +14,18 @@ React (Functional Components, Hooks) ⚛️
 HTML & CSS (Tailwind for styling) 🎨
 JavaScript (ES6+ features) 🟡
 html-to-image (For converting meme to downloadable image) 📸
+
 📦 Installation
 1️⃣ Clone the Repository
-
 git clone https://github.com/MadhuSharma-9/meme-generator.git
 cd meme-generator
+
 2️⃣ Install Dependencies
-
 npm install
-3️⃣ Start the App
 
+3️⃣ Start the App
 npm run dev  # Or use npm start if not using Vite
+
 🛠️ How It Works
 1️⃣ Generate a Meme
 Click the "Generate New Image" button to get a random meme template.
